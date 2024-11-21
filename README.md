@@ -1,2 +1,2 @@
 # sudoku-solv
-a sudoku solver written with openMP
+a parallel sudoku solver written with c++ openMP
